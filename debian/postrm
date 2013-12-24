@@ -1,5 +1,0 @@
-#!/bin/bash
-unset J2SDKDIR=/usr/lib/jvm/java-7-oracle
-unset J2REDIR=/usr/lib/jvm/java-7-oracle/jre
-unset JAVA_HOME=/usr/lib/jvm/java-7-oracle
-unset DERBY_HOME=/usr/lib/jvm/java-7-oracle/db
