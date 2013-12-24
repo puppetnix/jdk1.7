@@ -3,7 +3,7 @@
 ##BUILD DEB PACKAGE
 ### Download jdk archive 
 
-    wget --continue --no-check-certificate -O jdk-7u45-linux-x64.tar.gz --header "Cookie: gpw_e24=h" http://download.oracle.com/otn-pub/java/jdk/7u45-b18/jdk-7u45-linux-x64.tar.gz`
+    wget --continue --no-check-certificate -O jdk-7u45-linux-x64.tar.gz --header "Cookie: gpw_e24=h" http://download.oracle.com/otn-pub/java/jdk/7u45-b18/jdk-7u45-linux-x64.tar.gz
 
 ### Unzip archive 
 
