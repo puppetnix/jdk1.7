@@ -16,5 +16,6 @@ BUILD DEB PACKAGE
   dh_make -e email@domain.com -n -s -c gpl2
 
 4. replace files
+
   git clone https://github.com/puppetnix/jdk1.7.git
   mv jdk1.7/* java-7u45.jdk-custom1/
