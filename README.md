@@ -18,7 +18,8 @@
 ### Replace files
 
     git clone https://github.com/puppetnix/jdk1.7.git
-	mv jdk1.7/* java-7u45.jdk-custom1/`
+	mv jdk1.7/debian/* java-7u45.jdk-custom1/debian/
+	mv jdk1.7/jdk.sh java-7u45.jdk-custom1/
 
 ### Build package
 
