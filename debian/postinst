@@ -1,4 +1,0 @@
-#!/bin/bash
-update-java-alternatives -s java-7-oracle > /dev/null 2>&1
-exit 0
-
