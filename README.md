@@ -7,7 +7,7 @@
 
 ### Unzip archive 
 
-    tar -xzvf jdk-7u45-linux-x64.tar.gz -O
+    tar -xzvf jdk-7u45-linux-x64.tar.gz
 	mv jdk1.7.0_45 java-7u45.jdk-custom1
 
 ### Generate directory debina in root of package
