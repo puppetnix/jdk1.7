@@ -13,12 +13,12 @@
 
 ### Replace files
 
-    cd ..
-	git clone https://github.com/puppetnix/jdk1.7.git
-	mv jdk1.7/* java-7u45.jdk-custom1/
+    git clone https://github.com/puppetnix/jdk1.7.git
+	cp -R jdk1.7/* java-7u45.jdk-custom1/
 
 ### Build package
 
-    dpkg-buildpackage -rfakeroot
+    cd java-7u45.jdk-custom1
+	dpkg-buildpackage -rfakeroot
 
 
